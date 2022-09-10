@@ -2,7 +2,7 @@
 
 ## Overall
 
-API from https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/
+API from https://rapidapi.com
 
 - Choose exercise categories and specific muscle groups
 - Browse more than 1000 exercises
