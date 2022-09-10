@@ -18,7 +18,7 @@ API from https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/
 - Material UI
 - Etc
 
-## Preview
+## Live Demo
 
 https://goldsfitness.netlify.app
 
